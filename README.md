@@ -13,7 +13,7 @@ Result
 
 ## 📱 Live Link
 <p align="left">
-  🚀 <a href="https://bmi-calculator-virid-iota.vercel.app" target="_blank"><b>View Live Demo ... Click Here</b></a>
+  <a href="https://bmi-calculator-virid-iota.vercel.app" target="_blank"><b>View Live Demo ... Click Here</b></a>
 </p>
 
 > 💡 *Simple. Clean. Professional UI with gradient background and card layout.*
