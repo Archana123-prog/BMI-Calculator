@@ -12,8 +12,8 @@ Result
 <img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/1b27b485-391d-4852-a8e4-8c7eaa73303d" />
 
 ## 📱 Live Link
-<p align="center">
-  🚀 <a href="https://bmi-calculator-virid-iota.vercel.app" target="_blank"><b>View Live Demo</b></a>
+<p align="left">
+  🚀 <a href="https://bmi-calculator-virid-iota.vercel.app" target="_blank"><b>View Live Demo ... Click Here</b></a>
 </p>
 
 > 💡 *Simple. Clean. Professional UI with gradient background and card layout.*
