@@ -4,13 +4,14 @@
 > A clean, modern, and responsive **BMI Calculator** built with React, featuring a smooth UI and real-time health feedback.
 
 ## ✨ Preview
-![UI Preview](./preview.png)
+Input
+
 <img width="1919" height="914" alt="Screenshot 2026-04-08 231440" src="https://github.com/user-attachments/assets/632a051c-3a71-4a83-abbb-dba7f0e65e2c" />
 
-##Result
+Result
 <img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/1b27b485-391d-4852-a8e4-8c7eaa73303d" />
 
-## 📱 Live Link:
+## 📱 Live Link: bmi-calculator-virid-iota.vercel.app
 
 > 💡 *Simple. Clean. Professional UI with gradient background and card layout.*
 
