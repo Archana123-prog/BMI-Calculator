@@ -1,70 +1,118 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 📊 BMI Calculator — React App
 
-## Available Scripts
+> A clean, modern, and responsive **BMI Calculator** built with React, featuring a smooth UI and real-time health feedback.
 
-In the project directory, you can run:
+## ✨ Preview
+![UI Preview](./preview.png)
+<img width="1919" height="914" alt="Screenshot 2026-04-08 231440" src="https://github.com/user-attachments/assets/632a051c-3a71-4a83-abbb-dba7f0e65e2c" />
 
-### `npm start`
+##Result
+<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/1b27b485-391d-4852-a8e4-8c7eaa73303d" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📱 Live Link:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> 💡 *Simple. Clean. Professional UI with gradient background and card layout.*
 
-### `npm test`
+## 🚀 Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* ⚡ Real-time BMI calculation
+* 🎯 Instant health status feedback
+* 🔁 Reload functionality
+* 📱 Fully responsive design
+* 🎨 Modern UI with gradient background
+* 🧠 Input validation (prevents empty values)
 
-### `npm run build`
+## 🧮 How It Works
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The BMI is calculated using the formula:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[
+BMI = \frac{weight \ (lbs)}{height^2 \ (in)} \times 703
+]
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 📊 BMI Categories:
 
-### `npm run eject`
+| BMI Range | Status      |
+| --------- | ----------- |
+| < 25      | Underweight |
+| 25 - 30   | Healthy     |
+| > 30      | Overweight  |
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠️ Tech Stack
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* ⚛️ React (Functional Components + Hooks)
+* 🎨 CSS (Custom styling + modern UI)
+* 📦 JavaScript (Logic & state management)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📂 Project Structure
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
+src/
+│── App.js        # Main logic & UI
+│── index.js      # Entry point
+│── index.css     # Styling (UI/UX design)
+```
 
-## Learn More
+## ⚙️ Installation & Setup
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+# Clone the repository
+git clone https://github.com/your-username/bmi-calculator.git
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Go to project folder
+cd bmi-calculator
 
-### Code Splitting
+# Install dependencies
+npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Run the app
+npm start
+```
 
-### Analyzing the Bundle Size
+## 🎨 UI Highlights
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* 🌈 Gradient background (blue → purple)
+* 🧊 Glassmorphism-like card container
+* 🔘 Smooth button animations
+* ✨ Input focus effects
+* 📐 Clean spacing & typography
 
-### Making a Progressive Web App
+## ⚠️ Known Issues (Optional Improvement)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+* Minor typo: `"wieght"` → `"weight"`
+* Logic issue: `bmi` used before declaration in condition
+* Input type should be `number` instead of `text`
 
-### Advanced Configuration
+## 🔮 Future Improvements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+* 📊 Add BMI chart visualization
+* 🌍 Unit switch (kg/cm ↔ lbs/in)
+* 💾 Save history (LocalStorage)
+* 🎯 Better validation & error UI
+* 📱 Mobile optimization enhancements
 
-### Deployment
+## 🤝 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Contributions are welcome!
 
-### `npm run build` fails to minify
+1. Fork the repo
+2. Create a new branch
+3. Make changes
+4. Submit a PR 🚀
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📜 License
+
+This project is licensed under the MIT License.
+
+## 💻 Author
+
+Made with ❤️ by **Archana Kumari**
+
+## ⭐ Support
+
+If you like this project:
+
+* ⭐ Star the repo
+* 🍴 Fork it
+* 📢 Share it
