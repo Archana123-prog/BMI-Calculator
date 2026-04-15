@@ -3,7 +3,7 @@
 
 > A clean, modern, and responsive **BMI Calculator** built with React, featuring a smooth UI and real-time health feedback.
 
-## ✨ Preview
+## 🖼️ Photo
 Input
 
 <img width="1919" height="914" alt="Screenshot 2026-04-08 231440" src="https://github.com/user-attachments/assets/632a051c-3a71-4a83-abbb-dba7f0e65e2c" />
